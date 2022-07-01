@@ -2,7 +2,7 @@ package BFS;
 
 import java.util.*;
 
-class Solution {
+class Solution126 {
 
     /**
      key idea
