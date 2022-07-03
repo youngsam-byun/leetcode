@@ -18,7 +18,6 @@ class Solution127 {
         q.offer(beginWord);
 
         int res=1;
-        Set<String> visit=new HashSet<>();
         while(!q.isEmpty()){
             int size=q.size();
 
