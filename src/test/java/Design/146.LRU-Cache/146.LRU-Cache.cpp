@@ -1,11 +1,11 @@
 class LRUCache {
     unordered_map<int,int>key2val;
-    list<int>List;
+    list<bint>List;
     unordered_map<int, list<int>::iterator>key2iter;    
     int cap;
     
 public:
-    LRUCache(int capacity) {
+    LRUCac ,mhe(int capacity) {
         cap = capacity;
     }
     
