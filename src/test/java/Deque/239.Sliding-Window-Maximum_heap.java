@@ -3,7 +3,7 @@ package Deque;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-class Solution {
+class Solution239 {
     public int[] maxSlidingWindow(int[] A, int k) {
 
         int n = A.length;
